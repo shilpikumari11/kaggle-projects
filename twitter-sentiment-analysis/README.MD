@@ -107,5 +107,3 @@ Used two ML algorithms:
 
 Contributions are welcome! Feel free to fork this repo, suggest improvements, or submit pull requests.
 ---
-
-Would you like me to now prepare **interview questions and answers based on this project** as well?
